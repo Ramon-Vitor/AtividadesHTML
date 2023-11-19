@@ -1,0 +1,15 @@
+html{ background: black;
+    text-align:left;
+    border-style: ridge ;color : whitesmoke;
+border-width: 20px;
+border-spacing: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif ;}
+    
+label{color: whitesmoke;
+    text-align: center;}
+select{color: black}
+input{color: black;
+    text-align: center;}
+h4{ color: whitesmoke;}
+text{ color:black;}
+option {color: black;}
