@@ -1,0 +1,94 @@
+html{
+    background-color: rgb(23, 21, 21);
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 50pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 37%;
+} 
+
+h2{
+    color: rgb(54, 99, 205);
+    font-size: 40pt;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 45%;
+}
+
+.cidade{
+    color: rgb(68, 169, 76);
+    font-weight: bold;
+    padding-left: 3%;
+}
+
+p{
+    font-size: 30pt;
+}
+.Post{
+    width: 100%;
+    height: 450px;
+    background-color: black;  
+    color:white;
+    
+}
+
+.Post2{
+    background-color: black;
+    width: 100%;
+    height: 450px; 
+    color:white;
+    
+}
+.Post3{
+    width: 100%;
+    height: 450px;
+    background-color: black;  
+    color:white;
+}
+#OP{
+    height: 250px;
+    width: 250px;
+    float: left;
+    padding: 10px;
+    padding-top: 0,1%;
+}
+
+#Es{
+    height: 250px;
+    width: 250px;
+    float: left;
+    padding: 10px;
+
+}
+
+#Uber{
+    height: 250px;
+    width: 250px;
+    float: left;
+    padding: 10px;
+}
+
+label{
+    color: white;
+    font-size: 22pt;
+}
+#feedback{
+    font-size: 22pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#botao{
+    height: 50px;
+    width: 100px;
+}
+#rad{
+    height: 20px;
+    width: 20px;
+}
+textarea{
+    font-size: 25px;
+}
